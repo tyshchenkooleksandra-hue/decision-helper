@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DecisionHelper/.vs/DecisionHelper
+/DecisionHelper/bin/Debug/net8.0
+/DecisionHelper/obj
